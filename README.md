@@ -1,6 +1,6 @@
 # keker ( v1.0 )
 ```
-pip install -r requirements.txt
+pip install keker
 ```
 
 Explained in https://github.com/Tufaah/keker/tree/main/Examples
